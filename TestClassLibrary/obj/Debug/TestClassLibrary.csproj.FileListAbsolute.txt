@@ -1,0 +1,15 @@
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\ratingTransparent.png
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\TestClassLibrary.dll
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\TestClassLibrary.pdb
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\TestClassLibrary.Properties.Resources.resources
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\TestClassLibrary.csproj.GenerateResource.Cache
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\TestClassLibrary.dll
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\TestClassLibrary.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RateCounter</id>
+    <version>1.2.0</version>
+    <authors>Isuru.J</authors>
+    <owners>Nayani.M</owners>
+    <licenseUrl>http://aka.ms/xamarin-forms-license</licenseUrl>
+    <projectUrl>http://xamarin.com/forms</projectUrl>
+    <iconUrl>http://xamarin.com/forms</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a libarary can be used for Rate your app using five stars by default.</description>
+    <releaseNotes>An awesome library.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Rate Counter FiveStar Star</tags>
+  </metadata>
+  <files> 
+    <file src="TestClassLibrary\bin\Debug\TestClassLibrary.dll" target="lib\portable-win+net45+wp80+win81+wpa81\TestClassLibrary.dll" />
+    <file src="readme.txt" target=""/>
+  </files>
+</package>

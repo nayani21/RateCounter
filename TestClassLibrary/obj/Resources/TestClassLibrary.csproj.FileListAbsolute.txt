@@ -1,0 +1,17 @@
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Resources\TestClassLibrary.dll
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Resources\TestClassLibrary.pdb
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Resources\Xamarin.Forms.Core.dll
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Resources\Xamarin.Forms.Platform.dll
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Resources\Xamarin.Forms.Xaml.dll
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Resources\Xamarin.Forms.Core.pdb
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Resources\Xamarin.Forms.Core.xml
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Resources\Xamarin.Forms.Platform.pdb
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Resources\Xamarin.Forms.Xaml.pdb
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Resources\Xamarin.Forms.Xaml.xml
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Resources\TestClassLibrary.Properties.Resources.resources
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Resources\TestClassLibrary.csproj.GenerateResource.Cache
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Resources\TestClassLibrary.dll
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Resources\TestClassLibrary.pdb
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Resources\TestClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Resources\TestClassLibrary.dll.mdb
+C:\Users\Nayani.M\Documents\Visual Studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Resources\TestClassLibrary.dll.mdb
